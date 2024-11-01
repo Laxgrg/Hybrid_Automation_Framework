@@ -1,0 +1,20 @@
+10:09:31.148 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+10:09:43.391 [main] INFO  testcases.TC002_LoginDDT - ****** Starting TC002_LoginDDT ******
+10:09:43.391 [main] INFO  testcases.TC002_LoginDDT - Email used for login: xyz@brandm3dia.com
+10:09:43.391 [main] INFO  testcases.TC002_LoginDDT - Password used for login: brandm3dia
+10:10:00.312 [main] INFO  testcases.TC002_LoginDDT - Dashboard display status: false
+10:10:00.313 [main] INFO  testcases.TC002_LoginDDT - Login failed with invalid credentials as expected.
+10:10:00.313 [main] INFO  testcases.TC002_LoginDDT - Clearing fields after the test execution
+10:10:01.014 [main] INFO  testcases.TC002_LoginDDT - ******* Finished TC002_LoginDDT ******
+10:10:12.329 [main] INFO  testcases.TC002_LoginDDT - ****** Starting TC002_LoginDDT ******
+10:10:12.330 [main] INFO  testcases.TC002_LoginDDT - Email used for login: admin@brandm3dia.com
+10:10:12.330 [main] INFO  testcases.TC002_LoginDDT - Password used for login: brandm2dia
+10:10:32.121 [main] INFO  testcases.TC002_LoginDDT - Dashboard display status: false
+10:10:32.122 [main] INFO  testcases.TC002_LoginDDT - Login failed with invalid credentials as expected.
+10:10:32.122 [main] INFO  testcases.TC002_LoginDDT - Clearing fields after the test execution
+10:10:32.867 [main] INFO  testcases.TC002_LoginDDT - ******* Finished TC002_LoginDDT ******
+10:10:45.455 [main] INFO  testcases.TC002_LoginDDT - ****** Starting TC002_LoginDDT ******
+10:10:45.455 [main] INFO  testcases.TC002_LoginDDT - Email used for login: admin@brandm3dia.com
+10:10:45.455 [main] INFO  testcases.TC002_LoginDDT - Password used for login: brandm3dia
+10:10:55.994 [main] INFO  testcases.TC002_LoginDDT - Dashboard display status: true
+10:10:55.994 [main] INFO  testcases.TC002_LoginDDT - Clearing fields after the test execution

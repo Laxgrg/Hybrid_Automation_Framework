@@ -1,0 +1,47 @@
+20:52:00.533 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+20:52:00.537 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+20:52:00.545 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+20:52:00.545 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+20:52:00.545 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+20:52:00.552 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+20:52:00.552 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+20:52:00.552 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+20:52:00.559 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+20:52:00.559 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+20:52:00.559 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+20:52:00.565 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+20:52:00.566 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+20:52:00.566 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+20:52:00.571 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+20:52:00.572 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+20:52:00.572 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+20:52:00.578 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+20:52:00.578 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+20:52:00.578 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+20:52:15.489 [main] INFO  testcases.TC002_LoginDDT - ****** Starting TC002_LoginDDT ******
+20:52:15.501 [main] INFO  testcases.TC002_LoginDDT - Email used for login: xyz@brandm3dia.com
+20:52:15.501 [main] INFO  testcases.TC002_LoginDDT - Password used for login: brandm3dia
+20:52:31.853 [main] INFO  testcases.TC002_LoginDDT - Dashboard display status: false
+20:52:31.854 [main] INFO  testcases.TC002_LoginDDT - Login failed with invalid credentials as expected.
+20:52:31.856 [main] INFO  testcases.TC002_LoginDDT - Clearing fields after the test execution
+20:52:32.414 [main] INFO  testcases.TC002_LoginDDT - ******* Finished TC002_LoginDDT ******
+20:52:45.077 [main] INFO  testcases.TC002_LoginDDT - ****** Starting TC002_LoginDDT ******
+20:52:45.078 [main] INFO  testcases.TC002_LoginDDT - Email used for login: admin@brandm3dia.com
+20:52:45.078 [main] INFO  testcases.TC002_LoginDDT - Password used for login: brandm2dia
+20:53:01.494 [main] INFO  testcases.TC002_LoginDDT - Dashboard display status: false
+20:53:01.495 [main] INFO  testcases.TC002_LoginDDT - Login failed with invalid credentials as expected.
+20:53:01.495 [main] INFO  testcases.TC002_LoginDDT - Clearing fields after the test execution
+20:53:02.127 [main] INFO  testcases.TC002_LoginDDT - ******* Finished TC002_LoginDDT ******
+20:53:14.215 [main] INFO  testcases.TC002_LoginDDT - ****** Starting TC002_LoginDDT ******
+20:53:14.216 [main] INFO  testcases.TC002_LoginDDT - Email used for login: admin@brandm3dia.com
+20:53:14.216 [main] INFO  testcases.TC002_LoginDDT - Password used for login: brandm3dia
+20:53:24.735 [main] INFO  testcases.TC002_LoginDDT - Dashboard display status: true
+20:53:24.735 [main] INFO  testcases.TC002_LoginDDT - Clearing fields after the test execution
+15:36:39.000 [main] DEBUG org.testng.TestNG - suiteXmlPath: "/Users/laxmigurung/BrandMedia/Spin2Win_Automation/Spin2WinAutomation/grouping.xml"
+15:36:39.149 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  /Users/laxmigurung/BrandMedia/Spin2Win_Automation/Spin2WinAutomation/grouping.xml
+
+15:38:06.381 [main] DEBUG org.testng.TestNG - suiteXmlPath: "/Users/laxmigurung/BrandMedia/Spin2Win_Automation/Spin2WinAutomation/grouping.xml"
+15:38:06.514 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  /Users/laxmigurung/BrandMedia/Spin2Win_Automation/Spin2WinAutomation/grouping.xml
+
